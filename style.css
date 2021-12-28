@@ -1,0 +1,58 @@
+body {
+
+font-size: 25px;
+
+}
+label{
+
+    font-family: 'Shalimar', cursive;
+    font-size: 30px;
+    color: black;
+    font-style: oblique;
+    background-color: brown;
+
+}
+h2 {
+
+    font-size: 34px;
+    color: red;
+    font-weight: bold;
+     font-family: 'Abril Fatface', cursive;;
+}
+
+p {
+
+background-color: darkred;
+font-size: 20px;
+color: lavender;
+font-weight: 800;
+
+}
+span {
+
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rebeccapurple;
+    background-color: seashell;
+font-style: italic;
+
+
+}
+#copy_right_footer {
+
+text-align: center;
+background-color: grey;
+font-family: 'Times New Roman', Times, serif;
+font-size: 29px;
+font-weight: bold;
+
+
+}
+h4 {
+
+font-family: monospace;
+font-size: 30px;
+font-weight: bolder;
+color: whitesmoke;
+
+}
